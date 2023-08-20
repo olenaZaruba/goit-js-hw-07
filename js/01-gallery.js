@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
-const photo = document.querySelector(".gallery__image");
+
 const cardsContainer = document.querySelector(".gallery");
 const cardsMarkup = createGalleryMarkup(galleryItems);
 
